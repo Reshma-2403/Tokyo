@@ -2,3 +2,4 @@ Making clone to the repository in the folder named John
 Make commit in the John folder
 Storing the credentials and then do push activity
 Second commit has been done after pushing
+Viewing the history of the activities made in the repository
