@@ -5,3 +5,4 @@ Viewing the history of the activities made in the repository
 Create a new branch in the Amy folder
 Make a commit into the newly created branch
 Configure git to store the credentials
+After configuration push operation has been done
