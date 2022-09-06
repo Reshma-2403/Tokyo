@@ -1,1 +1,2 @@
 Making clone to the repository in the folder named John
+Make commit in the JOhn folder
