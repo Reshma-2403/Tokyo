@@ -1,1 +1,1 @@
-Making clone to the repository
+Making clone to the repository in the folder named John
