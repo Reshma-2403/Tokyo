@@ -1,0 +1,2 @@
+Making clone to the repository to the folder named Amy
+adding file content
