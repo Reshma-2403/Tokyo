@@ -7,3 +7,4 @@ Make a commit into the newly created branch
 Configure git to store the credentials
 After configuration push operation has been done
 Making another commit and doing a push
+Removing the branch
