@@ -1,4 +1,5 @@
 Create an repository
+Now add the repository url to clone with some folder
 Making clone to the repository in the folder named John
 Make commit in the John folder
 Storing the credentials and then do push activity
