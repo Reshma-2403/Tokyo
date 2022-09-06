@@ -1,2 +1,3 @@
 Making clone to the repository to the folder named Amy
-adding file content
+Adding file content in the Amy folder
+Fetch some new commit into the folder 
