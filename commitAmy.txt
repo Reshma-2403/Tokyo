@@ -7,5 +7,4 @@ Make a commit into the new branch
 Configure git to store the credentials into the memory
 After configuration push operation has been done 
 Making another commit and doing a push operation
-Removing the branch
-Branch is created
+Removing the local branch
