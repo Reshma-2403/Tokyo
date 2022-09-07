@@ -5,6 +5,6 @@ Make some commit in the John folder
 Storing the credentials and then do the push activity
 Second commit has been done after push
 Viewing the history of the activities done in the repository
-Track the position of the remote master branch
+Tracking the position of the remote master branch
 Merging the origin/master to the master
 Look for the local and remote branches after merging
