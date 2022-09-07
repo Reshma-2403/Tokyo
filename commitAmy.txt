@@ -1,4 +1,4 @@
-Making clone to the repository to the folder named Amy
+Making clone to the repository to the folder Amy
 Adding file content in the Amy folder
 Fetch some new commit into the folder 
 Viewing the history of the activities made in the repository
