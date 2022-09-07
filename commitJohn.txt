@@ -1,6 +1,6 @@
 Create an new repository
 Now add the repository url to clone with some new folder
-Making clone to the repository in the folder named John
+Making clone to the repository into the folder named John
 Make commit in the John folder
 Storing the credentials and then do push activity
 Second commit has been done after pushing
