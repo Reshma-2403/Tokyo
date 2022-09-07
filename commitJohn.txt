@@ -2,7 +2,7 @@ Create an new repository
 Now add the repository url to clone with some new folder
 Making clone to the repository into the folder named John
 Make some commit in the John folder
-Storing the credentials and then do push activity
+Storing the credentials and then do the push activity
 Second commit has been done after pushing
 Viewing the history of the activities made in the repository
 Track the position of the remote master branch
