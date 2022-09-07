@@ -3,7 +3,7 @@ Adding file content in the Amy
 Fetch some new commit into the Amy
 Viewing the history of the activities that are made in the repository
 Create a new branch in the folder named Amy
-Make a commit into the newly created branch
+Make a commit into the new branch
 Configure git to store the credentials
 After configuration push operation has been done
 Making another commit and doing a push
