@@ -1,4 +1,4 @@
-Create an repository
+Create an new repository
 Now add the repository url to clone with some folder
 Making clone to the repository in the folder named John
 Make commit in the John folder
